@@ -1,0 +1,10 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--prefix=/home/users/zhengfeng/zkuser/roshan/apache" \
+"--with-python=/home/users/zhengfeng/zkuser/roshan/python/bin/python" \
+"--with-apxs=/home/users/zhengfeng/zkuser/roshan/apache/bin/apxs" \
+"--with-included-apr" \
+"$@"

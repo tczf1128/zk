@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tail -f /home/chenxin/opt/apache/logs/error_log

@@ -1,0 +1,49 @@
+[Wed Aug 06 14:06:58 2014] [notice] Apache/2.2.22 (Unix) mod_wsgi/2.6 Python/2.6.5 configured -- resuming normal operations
+[Wed Aug 06 14:18:04 2014] [error] [client 172.17.227.175] File does not exist: /home/users/zhengfeng/zkuser/roshan/apache/htdocs/favicon.ico
+[Wed Aug 06 14:18:19 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Wed Aug 06 14:20:33 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Wed Aug 06 14:20:49 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Wed Aug 06 14:22:00 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 10:53:02 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 10:53:02 2014] [error]   DeprecationWarning
+[Tue Aug 12 10:53:03 2014] [error] [client 172.17.227.174] File does not exist: /home/users/zhengfeng/zkuser/roshan/apache/htdocs/favicon.ico
+[Tue Aug 12 10:53:34 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 10:53:34 2014] [error]   DeprecationWarning
+[Tue Aug 12 10:54:14 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 10:54:14 2014] [error]   DeprecationWarning
+[Tue Aug 12 10:54:14 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 10:54:14 2014] [error]   DeprecationWarning
+[Tue Aug 12 10:54:17 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 10:54:17 2014] [error]   DeprecationWarning
+[Tue Aug 12 10:54:17 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 10:54:17 2014] [error]   DeprecationWarning
+[Tue Aug 12 10:54:25 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 10:56:02 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 10:56:02 2014] [error]   DeprecationWarning
+[Tue Aug 12 10:57:05 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 11:00:32 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 11:00:59 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 11:04:28 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+2014-08-12 11:07:22,345:12774(0x4122a960):ZOO_ERROR@handle_socket_error_msg@1579: Socket [127.0.0.1:2182] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+[Tue Aug 12 11:08:21 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 11:08:21 2014] [error]   DeprecationWarning
+[Tue Aug 12 11:08:33 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 11:08:33 2014] [error]   DeprecationWarning
+[Tue Aug 12 11:08:39 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 11:08:45 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 11:08:45 2014] [error]   DeprecationWarning
+[Tue Aug 12 11:09:06 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 11:09:06 2014] [error]   DeprecationWarning
+[Tue Aug 12 11:09:37 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 11:19:58 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 11:19:58 2014] [error]   DeprecationWarning
+[Tue Aug 12 11:22:48 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 11:23:33 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 14:25:53 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 14:26:44 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Tue Aug 12 14:26:54 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 14:26:54 2014] [error]   DeprecationWarning
+[Tue Aug 12 14:27:03 2014] [error] /home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/site-packages/django/contrib/admin/sites.py:470: DeprecationWarning: AdminSite.root() is deprecated; use include(admin.site.urls) instead.
+[Tue Aug 12 14:27:03 2014] [error]   DeprecationWarning
+[Tue Aug 12 15:38:05 2014] [error] Exception KeyError: KeyError(139753038321376,) in <module 'threading' from '/home/users/zhengfeng/zkuser/roshan/python/lib/python2.6/threading.pyc'> ignored
+[Fri Aug 15 17:20:18 2014] [error] [client 172.17.227.174] File does not exist: /home/users/zhengfeng/zkuser/roshan/apache/htdocs/favicon.ico

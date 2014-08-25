@@ -1,0 +1,33 @@
+DEBUG views.login Line:100 user zhengfeng login success
+DEBUG views.login Line:100 user zhengfeng login success
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.get Line:179 get data from / 
+DEBUG views.get Line:180 stat: {'pzxid': 0L, 'ctime': 0L, 'aversion': 0, 'mzxid': 0L, 'numChildren': 1, 'ephemeralOwner': 0L, 'version': 0, 'dataLength': 0, 'mtime': 0L, 'cversion': 0, 'czxid': 0L} 
+DEBUG views.get Line:181 data:  
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.get Line:179 get data from / 
+DEBUG views.get Line:180 stat: {'pzxid': 21474836502L, 'ctime': 0L, 'aversion': 0, 'mzxid': 0L, 'numChildren': 1, 'ephemeralOwner': 0L, 'version': 0, 'dataLength': 0, 'mtime': 0L, 'cversion': 4, 'czxid': 0L} 
+DEBUG views.get Line:181 data:  
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.get Line:179 get data from / 
+DEBUG views.get Line:180 stat: {'pzxid': 0L, 'ctime': 0L, 'aversion': 0, 'mzxid': 0L, 'numChildren': 1, 'ephemeralOwner': 0L, 'version': 0, 'dataLength': 0, 'mtime': 0L, 'cversion': 0, 'czxid': 0L} 
+DEBUG views.get Line:181 data:  
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0
+DEBUG views.login Line:100 user zhengfeng login success
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.get Line:179 get data from / 
+DEBUG views.get Line:180 stat: {'pzxid': 0L, 'ctime': 0L, 'aversion': 0, 'mzxid': 0L, 'numChildren': 1, 'ephemeralOwner': 0L, 'version': 0, 'dataLength': 0, 'mtime': 0L, 'cversion': 0, 'czxid': 0L} 
+DEBUG views.get Line:181 data:  
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0
+DEBUG views.__call__ Line:63 create zookeeper handler 0 
+DEBUG views.__call__ Line:69 close zookeeper handler 0  return 0

@@ -1,0 +1,21 @@
+* 2009-11-02
+  增加节点添加、删除功能。
+  废弃原来的php代码，将静态文件放到django project目录中。
+
+* 2009-11-01
+  修改了view的代码，原来的view是创建ZNode对象，初始化的时候创建zookeeper_handler，但是发现这样有一定机率会触发python binding的bug，导致python出core。修改为在每次进入view函数的时候再初始化zookeeper_handler。
+
+* 2009-10-27
+  增加了重试机制。默认配置在zkutils._retry，可以调用zkutils.set_default_retry(n)来修改。
+
+* 2009-10-26
+  完成Welcome首页。
+
+* 2009-10-25
+  清理完前端js代码，以更结构化的方式来创建和维护前端控件。
+
+* 2009-10-23
+  完成后端python的REST调用设计和实现。
+
+* 2009-10-22
+  开始将roshan的后端从php迁移到python
